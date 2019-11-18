@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>安全检查</key>
+	<string>index_aqjc@2x.png</string>
+	<key>客户联系单</key>
+	<string>index_khlx@2x.png</string>
+	<key>维修任务</key>
+	<string>index_wxrw@2x.png</string>
+	<key>装修档案</key>
+	<string>index_zxda@2x.png</string>
+	<key>投诉处理</key>
+	<string>index_tscl@2x.png</string>
+	<key>装修巡检</key>
+	<string>index_zxxj@2x.png</string>
+	<key>装修整改</key>
+	<string>index_zxzg@2x.png</string>
+	<key>验房管理</key>
+	<string>index_yfgl@2x.png</string>
+	<key>客户事件</key>
+	<string>index_khsj@2x.png</string>
+	<key>上门收费</key>
+	<string>index_smsf@2x.png</string>
+	<key>设备资料</key>
+	<string>index_sbzl@2x.png</string>
+	<key>设备保养</key>
+	<string>index_sbby@2x.png</string>
+	<key>设备巡检</key>
+	<string>index_sbxj@2x.png</string>
+	<key>设备运行</key>
+	<string>index_sbyx@2x.png</string>
+	<key>设备维修</key>
+	<string>index_sbwx@2x.png</string>
+	<key>能耗抄表</key>
+	<string>index_nhcb@2x.png</string>
+	<key>仓库出仓</key>
+	<string>index_ckcc@2x.png</string>
+	<key>仓库入仓</key>
+	<string>index_ckrc@2x.png</string>
+	<key>安全巡更</key>
+	<string>index_aqxg@2x.png</string>
+	<key>消防报警</key>
+	<string>index_xfbj@2x.png</string>
+	<key>管理巡检</key>
+	<string>index_glxj@2x.png</string>
+	<key>突发事件</key>
+	<string>index_tfsj@2x.png</string>
+	<key>知识库</key>
+	<string>index_zsk@2x.png</string>
+	<key>经营指标</key>
+	<string>index_jyzb@2x.png</string>
+	<key>巡检点</key>
+	<string>index_xjd@2x.png</string>
+</dict>
+</plist>

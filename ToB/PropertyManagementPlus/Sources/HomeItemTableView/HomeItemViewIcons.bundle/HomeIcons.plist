@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>意向客户</key>
+	<string>index_yxkh@2x.png</string>
+	<key>租控表</key>
+	<string>index_zkb@2x.png</string>
+	<key>跟进任务</key>
+	<string>index_gjrw@2x.png</string>
+	<key>待办事项</key>
+	<string>index_dbsx@2x.png</string>
+	<key>审批任务</key>
+	<string>index_sprw@2x.png</string>
+	<key>业户资料</key>
+	<string>index_yhzl@2x.png</string>
+	<key>车辆资料</key>
+	<string>index_clzl@2x.png</string>
+	<key>更多</key>
+	<string>index_more@2x.png</string>
+</dict>
+</plist>

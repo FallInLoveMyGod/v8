@@ -1,0 +1,112 @@
+PODS:
+  - Alamofire (4.9.0)
+  - Eureka (4.3.1)
+  - FMDB (2.7.5):
+    - FMDB/standard (= 2.7.5)
+  - FMDB/standard (2.7.5)
+  - HandyJSON (5.0.1)
+  - IQKeyboardManagerSwift (6.5.1)
+  - JCore (2.1.4)
+  - JPush (3.2.6):
+    - JCore (< 3.0.0, >= 2.0.0)
+  - Kingfisher (4.10.1)
+  - LCActionSheet (3.5.4):
+    - Masonry (~> 1.1.0)
+  - LVRecordTool (1.4)
+  - Masonry (1.1.0)
+  - ObjectMapper (3.5.1)
+  - PGDatePicker (2.6.9):
+    - PGPickerView
+  - PGPickerView (1.3.8)
+  - PureLayout (3.1.5)
+  - SCLAlertView (0.8)
+  - SDAutoLayout (2.2.1)
+  - SDWebImage (5.2.3):
+    - SDWebImage/Core (= 5.2.3)
+  - SDWebImage/Core (5.2.3)
+  - SnapKit (4.2.0)
+  - SSZipArchive (2.2.2)
+  - SwiftyJSON (5.0.0)
+  - Toaster (2.2.0)
+  - TZImagePickerController (3.2.6)
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.0)
+  - Eureka
+  - FMDB
+  - HandyJSON
+  - IQKeyboardManagerSwift
+  - JPush
+  - Kingfisher
+  - LCActionSheet
+  - LVRecordTool
+  - ObjectMapper
+  - PGDatePicker (~> 2.6.9)
+  - PureLayout
+  - SCLAlertView
+  - SDAutoLayout (~> 2.2.0)
+  - SDWebImage
+  - SnapKit
+  - SSZipArchive
+  - SwiftyJSON
+  - Toaster (~> 2.0)
+  - TZImagePickerController
+  - YYModel
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Eureka
+    - FMDB
+    - HandyJSON
+    - IQKeyboardManagerSwift
+    - JCore
+    - JPush
+    - Kingfisher
+    - LCActionSheet
+    - LVRecordTool
+    - Masonry
+    - ObjectMapper
+    - PGDatePicker
+    - PGPickerView
+    - PureLayout
+    - SCLAlertView
+    - SDAutoLayout
+    - SDWebImage
+    - SnapKit
+    - SSZipArchive
+    - SwiftyJSON
+    - Toaster
+    - TZImagePickerController
+    - YYModel
+
+SPEC CHECKSUMS:
+  Alamofire: afc3e7c6db61476cb45cdd23fed06bad03bbc321
+  Eureka: 28ea296f06710f6745266b71f17862048941a32d
+  FMDB: 2ce00b547f966261cd18927a3ddb07cb6f3db82a
+  HandyJSON: d45b8415c501e3affc59ca9762c1197ff0feb646
+  IQKeyboardManagerSwift: 9ac7524fad9f9fe9a3b98c927e7772471ca546d2
+  JCore: d345c049141877eb61c33011455fdb5fcab1673f
+  JPush: 41dd48a69bd8c08abc692dc7f2b23c0fb281471f
+  Kingfisher: c148cd7b47ebde9989f6bc7c27dcaa79d81279a0
+  LCActionSheet: a015dee43c54c8f6631e86facd9e2ad59dc1b5ab
+  LVRecordTool: 6b430b53de7e69f0b99201f7a97430001207ea6f
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  ObjectMapper: 70187b8941977c62ccfb423caf6b50be405cabf0
+  PGDatePicker: 88960f3760edac96219c10320f25536ad31d0f44
+  PGPickerView: 037acfb132a4c8054fb43aaa59a5ff50c7f747f5
+  PureLayout: 9b4ad47b2f0388c84ff534af23d96e720c1b875a
+  SCLAlertView: 6a77bb2edfc65e04dbe57725546cb4107a506b85
+  SDAutoLayout: 8bf6b3bbc8b01f775d4defbb4fda2ace805461be
+  SDWebImage: 46a7f73228f84ce80990c786e4372cf4db5875ce
+  SnapKit: fe8a619752f3f27075cc9a90244d75c6c3f27e2a
+  SSZipArchive: fa16b8cc4cdeceb698e5e5d9f67e9558532fbf23
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+  Toaster: c1a81b376edcc2470157b4d1ee1e9341d3b96455
+  TZImagePickerController: 3900e8d68428ff3a88817efce82ae9e7d9ffebc9
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: dbb869493e5d49183b6ce1cf2a40f957877f3e30
+
+COCOAPODS: 1.7.0.rc.2

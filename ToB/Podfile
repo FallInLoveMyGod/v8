@@ -1,0 +1,30 @@
+source 'https://github.com/CocoaPods/Specs.git'
+platform :ios, '8.0'
+use_frameworks!
+
+target "PropertyManagementPlus" do
+    pod 'PGDatePicker', '~> 2.6.9'
+    pod 'Alamofire', '~> 4.0'
+    pod 'SwiftyJSON'
+    pod 'Toaster', '~> 2.0'
+    pod 'HandyJSON'
+    pod 'FMDB'
+    pod 'Eureka'
+    pod 'TZImagePickerController'
+    pod 'LVRecordTool'
+    pod 'PureLayout'
+    pod 'YYModel'
+    pod 'LCActionSheet'
+    pod 'SCLAlertView'
+    pod 'SDWebImage'
+    pod 'Kingfisher'
+    pod 'JPush'
+    pod 'SDAutoLayout', '~> 2.2.0'
+#    pod 'RxSwift', '~> 3.3.0'
+#    pod 'RxCocoa', '~> 3.3.0'
+    pod 'IQKeyboardManagerSwift'
+    pod 'SnapKit'
+    pod 'ObjectMapper'
+    pod 'SSZipArchive'
+    
+end

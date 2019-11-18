@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11542" systemVersion="15G1108" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11524"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="KGk-i7-Jjw" customClass="ComplaintHandleAddTextFiledTableViewCell" customModule="PropertyManagementPlus" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="DSh-ct-oBR">
+                        <rect key="frame" x="10" y="0.0" width="100" height="43.5"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="100" id="uIP-t1-s0S"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <color key="textColor" white="0.33333333333333331" alpha="1" colorSpace="calibratedWhite"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="ntj-KJ-Mrj">
+                        <rect key="frame" x="120" y="0.0" width="170" height="43.5"/>
+                        <nil key="textColor"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <textInputTraits key="textInputTraits"/>
+                    </textField>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottom" secondItem="DSh-ct-oBR" secondAttribute="bottom" id="492-SN-AcI"/>
+                    <constraint firstItem="DSh-ct-oBR" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="10" id="VfY-MX-faC"/>
+                    <constraint firstItem="ntj-KJ-Mrj" firstAttribute="bottom" secondItem="DSh-ct-oBR" secondAttribute="bottom" id="XYA-Pp-RJY"/>
+                    <constraint firstItem="ntj-KJ-Mrj" firstAttribute="leading" secondItem="DSh-ct-oBR" secondAttribute="trailing" constant="10" id="eZE-QM-FuF"/>
+                    <constraint firstItem="ntj-KJ-Mrj" firstAttribute="top" secondItem="DSh-ct-oBR" secondAttribute="top" id="gM4-NL-dn6"/>
+                    <constraint firstAttribute="trailing" secondItem="ntj-KJ-Mrj" secondAttribute="trailing" constant="30" id="gmD-rY-JsN"/>
+                    <constraint firstItem="DSh-ct-oBR" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="gqA-rl-8I3"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="singleTextFiled" destination="ntj-KJ-Mrj" id="oeo-Ad-F6e"/>
+                <outlet property="singleTextFiledNameLabel" destination="DSh-ct-oBR" id="OnH-IP-aHF"/>
+            </connections>
+        </tableViewCell>
+    </objects>
+</document>

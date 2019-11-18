@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="11542" systemVersion="15G1108" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="11524"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" id="KGk-i7-Jjw" customClass="WarehouseSelectGoodsTableViewCell" customModule="PropertyManagementPlus" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="44"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="43"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="物品" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Au8-20-KfK">
+                        <rect key="frame" x="10" y="0.0" width="40" height="44"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="40" id="XV2-PM-nfb"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <nil key="textColor"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                    <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="RSu-Xx-YsS">
+                        <rect key="frame" x="260" y="8" width="50" height="27.5"/>
+                        <color key="backgroundColor" red="0.16862745100000001" green="0.63529411759999999" blue="0.96470588239999999" alpha="1" colorSpace="calibratedRGB"/>
+                        <constraints>
+                            <constraint firstAttribute="width" constant="50" id="kah-p8-EdX"/>
+                        </constraints>
+                        <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                        <state key="normal" title="查找">
+                            <color key="titleColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        </state>
+                        <connections>
+                            <action selector="selectButton:" destination="KGk-i7-Jjw" eventType="touchUpInside" id="Sje-IQ-2sA"/>
+                        </connections>
+                    </button>
+                    <textField opaque="NO" clipsSubviews="YES" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="center" textAlignment="natural" minimumFontSize="17" translatesAutoresizingMaskIntoConstraints="NO" id="X3u-V7-gqB">
+                        <rect key="frame" x="50" y="0.0" width="210" height="44"/>
+                        <nil key="textColor"/>
+                        <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                        <textInputTraits key="textInputTraits"/>
+                    </textField>
+                </subviews>
+                <constraints>
+                    <constraint firstItem="Au8-20-KfK" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" id="C43-lx-BXV"/>
+                    <constraint firstItem="X3u-V7-gqB" firstAttribute="bottom" secondItem="Au8-20-KfK" secondAttribute="bottom" id="C6y-hA-5fk"/>
+                    <constraint firstAttribute="bottom" secondItem="RSu-Xx-YsS" secondAttribute="bottom" constant="8" id="DCy-xQ-ImK"/>
+                    <constraint firstAttribute="bottom" secondItem="Au8-20-KfK" secondAttribute="bottom" id="Ka2-af-G6C"/>
+                    <constraint firstAttribute="trailing" secondItem="RSu-Xx-YsS" secondAttribute="trailing" constant="10" id="MOF-lJ-YgD"/>
+                    <constraint firstItem="RSu-Xx-YsS" firstAttribute="leading" secondItem="X3u-V7-gqB" secondAttribute="trailing" id="QJ6-GW-ty6"/>
+                    <constraint firstItem="X3u-V7-gqB" firstAttribute="leading" secondItem="Au8-20-KfK" secondAttribute="trailing" id="dG3-eA-bbU"/>
+                    <constraint firstItem="Au8-20-KfK" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leading" constant="10" id="i1p-3U-ij8"/>
+                    <constraint firstItem="RSu-Xx-YsS" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="top" constant="8" id="mts-Y4-V0D"/>
+                    <constraint firstItem="X3u-V7-gqB" firstAttribute="top" secondItem="Au8-20-KfK" secondAttribute="top" id="qTk-NS-HRy"/>
+                </constraints>
+            </tableViewCellContentView>
+            <connections>
+                <outlet property="contentTextField" destination="X3u-V7-gqB" id="NAr-1O-bnK"/>
+                <outlet property="selectButton" destination="RSu-Xx-YsS" id="Due-0U-SHN"/>
+            </connections>
+        </tableViewCell>
+    </objects>
+</document>

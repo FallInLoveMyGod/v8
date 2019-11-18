@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7a0e3942-4935-43d5-ba9b-f8f6968b3d0d",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "7a0e3942-4935-43d5-ba9b-f8f6968b3d0d" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "7a0e3942-4935-43d5-ba9b-f8f6968b3d0d" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "45BA8A4C-7836-4AE7-874A-FE4EE8BBE37B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "7a0e3942-4935-43d5-ba9b-f8f6968b3d0d" : "MyProject\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PropertyManagementPlus",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "trunk\/PropertyManagementPlus.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/lesoft.zentaopm.net\/svn\/PMIOSB",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7a0e3942-4935-43d5-ba9b-f8f6968b3d0d"
+    }
+  ]
+}

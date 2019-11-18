@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1F9424ADCC8CC74041951C76517C6927ABAB1CEC",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "1F9424ADCC8CC74041951C76517C6927ABAB1CEC" : 9223372036854775807,
+    "CA46549DDF97A87514964669ABF08F7A1A9322F9" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A48D5695-944D-48B8-8E27-6CAC22420A31",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "1F9424ADCC8CC74041951C76517C6927ABAB1CEC" : "PMMobile_ToB_IOS\/",
+    "CA46549DDF97A87514964669ABF08F7A1A9322F9" : "PMMobile_ToC_IOS\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PropertyManagementPlus",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Code\/ToB\/PropertyManagementPlus.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/code.aliyun.com\/lesoft.cn\/PMMobile_ToB_IOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1F9424ADCC8CC74041951C76517C6927ABAB1CEC"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/code.aliyun.com\/lesoft.cn\/PMMobile_ToC_IOS.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "CA46549DDF97A87514964669ABF08F7A1A9322F9"
+    }
+  ]
+}

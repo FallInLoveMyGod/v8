@@ -1,0 +1,6 @@
+framework module LVRecordTool {
+  umbrella header "LVRecordTool-umbrella.h"
+
+  export *
+  module * { export * }
+}

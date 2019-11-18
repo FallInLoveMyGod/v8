@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>客户联系单</string>
+	<string>维修任务</string>
+	<string>装修档案</string>
+	<string>投诉处理</string>
+	<string>装修巡检</string>
+	<string>装修整改</string>
+	<string>验房管理</string>
+	<string>客户事件</string>
+	<string>上门收费</string>
+	<string>设备资料</string>
+	<string>设备保养</string>
+	<string>设备巡检</string>
+	<string>设备运行</string>
+	<string>设备维修</string>
+	<string>能耗抄表</string>
+	<string>仓库出仓</string>
+	<string>仓库入仓</string>
+	<string>安全巡更</string>
+	<string>消防报警</string>
+	<string>管理巡检</string>
+	<string>突发事件</string>
+	<string>知识库</string>
+	<string>经营指标</string>
+	<string>巡检点</string>
+</array>
+</plist>
