@@ -24,8 +24,8 @@
             timestampString = "555394573.067516"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "306"
-            endingLineNumber = "306"
+            startingLineNumber = "313"
+            endingLineNumber = "313"
             landmarkName = "requestData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -41,8 +41,8 @@
             timestampString = "555394573.068025"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "324"
-            endingLineNumber = "324"
+            startingLineNumber = "331"
+            endingLineNumber = "331"
             landmarkName = "requestData()"
             landmarkType = "7">
          </BreakpointContent>
@@ -58,8 +58,8 @@
             timestampString = "555394573.068307"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "300"
-            endingLineNumber = "300"
+            startingLineNumber = "307"
+            endingLineNumber = "307"
             landmarkName = "requestData()"
             landmarkType = "7">
             <Locations>
@@ -72,12 +72,11 @@
                   moduleName = "PropertyManagementPlus"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tianyaoqi/Desktop/%E9%A1%B9%E7%9B%AE/git/LeSoft.ToB.V8.IOS/PMMobile_ToB_IOS_NEW/Code/ToB/PropertyManagementPlus/UI/MainTask/Work/RentControlTable/RentControlTableViewController.swift"
-                  timestampString = "575827359.798627"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "300"
-                  endingLineNumber = "300"
-                  offsetFromSymbolStart = "4276">
+                  startingLineNumber = "307"
+                  endingLineNumber = "307"
+                  offsetFromSymbolStart = "4146">
                </Location>
                <Location
                   uuid = "BDCAC21B-50DE-47DF-88B2-6D0D441AB5E3 - b3821eeffc1b2686"
@@ -88,12 +87,11 @@
                   moduleName = "PropertyManagementPlus"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tianyaoqi/Desktop/%E9%A1%B9%E7%9B%AE/git/LeSoft.ToB.V8.IOS/PMMobile_ToB_IOS_NEW/Code/ToB/PropertyManagementPlus/UI/MainTask/Work/RentControlTable/RentControlTableViewController.swift"
-                  timestampString = "575827359.801167"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "302"
-                  endingLineNumber = "302"
-                  offsetFromSymbolStart = "50">
+                  startingLineNumber = "309"
+                  endingLineNumber = "309"
+                  offsetFromSymbolStart = "149">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -684,12 +682,11 @@
                   moduleName = "PropertyManagementPlus"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tianyaoqi/Desktop/%E9%A1%B9%E7%9B%AE/git/LeSoft.ToB.V8.IOS/PMMobile_ToB_IOS_NEW/Code/ToB/PropertyManagementPlus/UI/MainTask/Task/TaskDetailViewController.swift"
-                  timestampString = "575827360.029232"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "1725"
                   endingLineNumber = "1725"
-                  offsetFromSymbolStart = "19824">
+                  offsetFromSymbolStart = "18270">
                </Location>
                <Location
                   uuid = "33AAABD3-AAC3-458C-9717-4EF4D199B444 - 837f189cb0256595"
@@ -700,12 +697,11 @@
                   moduleName = "PropertyManagementPlus"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tianyaoqi/Desktop/%E9%A1%B9%E7%9B%AE/git/LeSoft.ToB.V8.IOS/PMMobile_ToB_IOS_NEW/Code/ToB/PropertyManagementPlus/UI/MainTask/Task/TaskDetailViewController.swift"
-                  timestampString = "575827360.0319231"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "1725"
                   endingLineNumber = "1725"
-                  offsetFromSymbolStart = "3065">
+                  offsetFromSymbolStart = "3017">
                </Location>
                <Location
                   uuid = "33AAABD3-AAC3-458C-9717-4EF4D199B444 - 8e49cd576671cf94"
@@ -716,7 +712,6 @@
                   moduleName = "PropertyManagementPlus"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tianyaoqi/Desktop/%E9%A1%B9%E7%9B%AE/git/LeSoft.ToB.V8.IOS/PMMobile_ToB_IOS_NEW/Code/ToB/PropertyManagementPlus/UI/MainTask/Task/TaskDetailViewController.swift"
-                  timestampString = "575827360.0345989"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "1726"
@@ -836,12 +831,11 @@
                   moduleName = "PropertyManagementPlus"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tianyaoqi/Desktop/%E9%A1%B9%E7%9B%AE/git/LeSoft.ToB.V8.IOS/PMMobile_ToB_IOS_NEW/Code/ToB/PropertyManagementPlus/Core/DataSynchronization/DataSynchronizationManager.swift"
-                  timestampString = "575827360.070912"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "262"
                   endingLineNumber = "262"
-                  offsetFromSymbolStart = "17448">
+                  offsetFromSymbolStart = "17122">
                </Location>
                <Location
                   uuid = "CB2E6207-5653-40C3-9DE3-F32FEF17189F - 160cc4a117ea3780"
@@ -852,12 +846,11 @@
                   moduleName = "PropertyManagementPlus"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tianyaoqi/Desktop/%E9%A1%B9%E7%9B%AE/git/LeSoft.ToB.V8.IOS/PMMobile_ToB_IOS_NEW/Code/ToB/PropertyManagementPlus/Core/DataSynchronization/DataSynchronizationManager.swift"
-                  timestampString = "575827360.0737261"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "262"
                   endingLineNumber = "262"
-                  offsetFromSymbolStart = "33322">
+                  offsetFromSymbolStart = "17491">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1108,12 +1101,11 @@
                   moduleName = "PropertyManagementPlus"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tianyaoqi/Desktop/%E9%A1%B9%E7%9B%AE/git/LeSoft.ToB.V8.IOS/PMMobile_ToB_IOS_NEW/Code/ToB/PropertyManagementPlus/UI/MainTask/Task/TaskDetailViewController.swift"
-                  timestampString = "575827360.178282"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "972"
                   endingLineNumber = "972"
-                  offsetFromSymbolStart = "229">
+                  offsetFromSymbolStart = "247">
                </Location>
                <Location
                   uuid = "D09DA69C-1DB6-4D4B-8446-DF43A2B1B49B - db6a9471268a6e61"
@@ -1124,12 +1116,11 @@
                   moduleName = "PropertyManagementPlus"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tianyaoqi/Desktop/%E9%A1%B9%E7%9B%AE/git/LeSoft.ToB.V8.IOS/PMMobile_ToB_IOS_NEW/Code/ToB/PropertyManagementPlus/UI/MainTask/Task/TaskDetailViewController.swift"
-                  timestampString = "575827360.181343"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "973"
                   endingLineNumber = "973"
-                  offsetFromSymbolStart = "56">
+                  offsetFromSymbolStart = "128">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1176,12 +1167,11 @@
                   moduleName = "PropertyManagementPlus"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tianyaoqi/Desktop/%E9%A1%B9%E7%9B%AE/git/LeSoft.ToB.V8.IOS/PMMobile_ToB_IOS_NEW/Code/ToB/PropertyManagementPlus/UI/MainTask/Task/TaskDetailViewController.swift"
-                  timestampString = "575827360.19839"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "1017"
                   endingLineNumber = "1017"
-                  offsetFromSymbolStart = "863">
+                  offsetFromSymbolStart = "860">
                </Location>
                <Location
                   uuid = "FC0D1EB2-3E3A-4DB0-83BE-9B665AD225A2 - f8e0b5e3431b3a63"
@@ -1192,12 +1182,11 @@
                   moduleName = "PropertyManagementPlus"
                   usesParentBreakpointCondition = "Yes"
                   urlString = "file:///Users/tianyaoqi/Desktop/%E9%A1%B9%E7%9B%AE/git/LeSoft.ToB.V8.IOS/PMMobile_ToB_IOS_NEW/Code/ToB/PropertyManagementPlus/UI/MainTask/Task/TaskDetailViewController.swift"
-                  timestampString = "575827360.205592"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "1018"
                   endingLineNumber = "1018"
-                  offsetFromSymbolStart = "57">
+                  offsetFromSymbolStart = "138">
                </Location>
             </Locations>
          </BreakpointContent>
@@ -1764,6 +1753,49 @@
             endingLineNumber = "119"
             landmarkName = "-requestData"
             landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "39E6A286-5EBF-47DD-BE9C-73F69E183A40"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PropertyManagementPlus/UI/MainTask/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "306"
+            endingLineNumber = "306"
+            landmarkName = "vertify(custCode:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88AF1994-AEC7-4AEA-AEF4-5A3434098F50"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PropertyManagementPlus/UI/MainTask/Login/LoginViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "295"
+            endingLineNumber = "295"
+            landmarkName = "vertify(custCode:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "A2A367C5-F188-42D5-97D9-AA9C5FE6041C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            scope = "1"
+            stopOnStyle = "0">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>

@@ -993,13 +993,13 @@ class WorkViewController: LinkBaseViewController,UITableViewDataSource,UITableVi
         lineView.backgroundColor = kThemeColor
         
         
-        let contentLabel = UILabel(frame: CGRect(x: 0, y: 0, width: kScreenWidth, height: 35.0))
+        let contentLabel = UILabel(frame: CGRect(x: 20, y: 0, width: kScreenWidth - 20, height: 35.0))
         contentLabel.backgroundColor = UIColor.white
         contentLabel.textColor = kMarkColor
         contentLabel.font = UIFont.boldSystemFont(ofSize: 17)
         let model = self.panels[section + 1] as! PanelsModel;
         contentLabel.text = model.panelName;
-        contentLabel.addSubview(lineView)
+        contentView.addSubview(lineView)
         contentView.addSubview(contentLabel)
         
         return contentView

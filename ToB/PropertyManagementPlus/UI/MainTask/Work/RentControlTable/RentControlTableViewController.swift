@@ -87,11 +87,15 @@ class RentControlTableViewController: BaseTableViewController,LMReportViewDataso
         
         let tempCell: MaterialDataInfoDetailTableViewCell = materialDataInfoDetailTableViewCell as! MaterialDataInfoDetailTableViewCell
         
-        let model = self.customerDataSource[buildIndex] as! HouseStructureModel
+        var model:HouseStructureModel?;
+        if buildIndex < self.customerDataSource.count {
+            model = self.customerDataSource[buildIndex] as! HouseStructureModel
+        }
         
+                
         if (indexPath.row == 0) {
             tempCell.nameLabel.text = "楼盘"
-            tempCell.contentLabel.text = model.Name ?? ""
+            tempCell.contentLabel.text = model?.Name ?? ""
         }else {
             
             if (roomIndex != -1) {
@@ -122,10 +126,13 @@ class RentControlTableViewController: BaseTableViewController,LMReportViewDataso
                 showActionSheet(title: "选择楼盘", cancelTitle: "取消", titles: titles, tag: "1357")
             }else {
                 tempDataSource .removeAllObjects();
-                let tempModel = self.customerDataSource[buildIndex] as! HouseStructureModel
+                var tempModel:HouseStructureModel?
+                if buildIndex < self.customerDataSource.count {
+                    tempModel = self.customerDataSource[buildIndex] as! HouseStructureModel
+                }
                 let ldArr = NSMutableArray();
                 let otherArr = NSMutableArray();
-                for tempDict in tempModel.PBuildings! {
+                for tempDict in tempModel?.PBuildings ?? [] {
                     let dic = tempDict as! NSDictionary;
 //                    if (dic.allKeys as NSArray).contains("buildType") {
                         let str:String = dic["buildType"] as! String;

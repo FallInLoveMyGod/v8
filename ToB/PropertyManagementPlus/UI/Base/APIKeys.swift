@@ -10,7 +10,7 @@ import UIKit
 import Foundation
 
 public let KHost = "http://112.124.110.11:8089"
-public let KClientInfoEventHost = "http://reg.lesoft.cn"
+public let KClientInfoEventHost = "http://reg.mfzhaopu.com"
 
 public let HouseStructureDataSynchronization = "HouseStructureDataSynchronization"
 public let GetEquipmentMenuKey = "GetEquipmentMenuKey"
